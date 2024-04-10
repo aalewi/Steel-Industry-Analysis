@@ -40,4 +40,5 @@ For capacitive circuits, where the load current leads the supply voltage, the te
 # **Summary**  
 https://github.com/aalewi/Steel-Industry-Analysis/blob/main/Summary.md
 # **Notebook**  
+https://github.com/aalewi/Steel-Industry-Analysis/blob/main/SteelEnergyConsumption.ipynb
 
