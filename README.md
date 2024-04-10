@@ -1,4 +1,4 @@
-# SteelIndustryAnalysis
+# Steel Industry Analysis
 
 ![Steel Industry Photo](steelindustry.jpeg)
 ### Aaliyah Lewis
