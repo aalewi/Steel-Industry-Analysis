@@ -10,6 +10,9 @@ https://www.kaggle.com/datasets/csafrit2/steel-industry-energy-consumption/data
 
 [Lagging vs Leading Power](http://www.differencebetween.net/technology/difference-between-leading-and-lagging-power-factor/)
 
+**Link to Colab Notebook:**    
+https://colab.research.google.com/drive/1i8Q2mHq9kQernBIsHlxXyPzCWosUqEFz?usp=sharing    
+
 The purpose of this analysis is to understand the impacts of energy consumption on the Steel Industry and determine what factors are important.
 
 **Important Definitions:**  
