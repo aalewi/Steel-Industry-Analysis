@@ -8,4 +8,4 @@
 * There is not any trends between the various months
 * Majority of the data in the dataset is a light load
 ![Load Histogram](Images/loadhist.png)
-* 
+* The average usage during the weekdays is between 30-35
