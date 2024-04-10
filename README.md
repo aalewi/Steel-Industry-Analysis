@@ -1,4 +1,6 @@
 # SteelIndustryAnalysis
+
+![alt text](http://url/to/img.png)
 ### Aaliyah Lewis
 An analysis on Steel Industry Data Provided by Kaggle along with Machine Learning Algorithms    
 
