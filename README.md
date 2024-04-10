@@ -27,7 +27,7 @@ The term ‘lagging power factor’ is used where the load current lags behind t
 
 For capacitive circuits, where the load current leads the supply voltage, the term ‘leading power factor’ is used. It is a property of an electrical circuit that signifies that the load current is capacitive, meaning capacitive loads will cause a leading power factor.
 
-# **Analysis Overview:**   
+# **Analysis Overview**   
 * Exploratory Analysis:
     - Check Data for Nulls & Correlations
     - Explore Trends within the data
